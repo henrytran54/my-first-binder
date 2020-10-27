@@ -1,7 +1,11 @@
 # my-first-binder
 Testing Binder's ability to run Python code on the web
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/henrytran54/my-first-binder/master)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/henrytran54/my-first-binder/master
 
+#######
 How it works
 1
 Enter your repository information
@@ -14,3 +18,4 @@ Interact with your notebooks in a live environment!
 A JupyterHub server will host your repository's contents. We offer you a reusable link and badge to your live repository that you can easily share with others.
 questions?
 join the discussion, read the docs, see the code
+########
